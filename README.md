@@ -2,6 +2,11 @@
 <div align="center">
   <img src="https://res.cloudinary.com/did21pz5q/image/upload/mule_logo_ep6rlk" width="200" height="200"/>
 </div>
+<style>
+a {
+    text-decoration: none; 
+}
+</style>
 
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">Feel free to take a look at my repositories. connect with me if you'd like to chat about technology, life, or anything in between.</h3>
